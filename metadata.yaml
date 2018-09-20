@@ -1,0 +1,48 @@
+_repo: 0xc6schylos-Tragedies-and-Fragments_53174
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Plumptre, E. H. (Edward Hayes)
+    aliases:
+    - Plumptre, Edward Hayes, Dean of Wells
+    - Plumptre, Edward H. (Edward Hayes)
+    - Plumptre, Edward Hayes
+    - Plumptree, E. H. (Edward Hayes)
+    - Plumptree, Edward Hayes
+    birthdate: 1821
+    deathdate: 1891
+    gutenberg_agent_id: '47248'
+    url: http://www.gutenberg.org/2009/agents/47248
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Plumptre
+creator:
+  author:
+    agent_name: Aeschylus
+    aliases:
+    - Αισχύλος
+    - Aischylos
+    - Αἰσχύλος
+    birthdate: -525
+    deathdate: -456
+    gutenberg_agent_id: '2825'
+    url: http://www.gutenberg.org/2009/agents/2825
+    wikipedia: http://en.wikipedia.org/wiki/Aeschylus
+description: ''
+gutenberg_issued: '2016-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53174'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aeschylus -- Translations into English'
+- !lcsh 'Mythology, Greek -- Drama'
+- !lcc 'PA'
+- GITenberg
+tableOfContents: 'Part 1. Chronological outline of the life of Æschylos. The Persians.
+  The seven who fought against Thebes. Prometheus bound. The suppliants -- Part 2.
+  Agamemnon. The libation-pourers. Eumenides. Fragments. Rhymed choruses: from Agamemnon,
+  from The libation-pourers, from Eumenides.'
+title: Æschylos Tragedies and Fragments
+url: http://www.gutenberg.org/ebooks/53174
